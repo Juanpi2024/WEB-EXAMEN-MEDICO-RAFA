@@ -56,7 +56,7 @@ const Hero = () => {
                     <div className="relative">
                         <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-8 border-white">
                             <img
-                                src="https://images.unsplash.com/photo-1631217818202-90ef4a851c58?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+                                src="https://picsum.photos/seed/medicheck/1000/800"
                                 alt="Modern Clinic"
                                 className="w-full h-[500px] object-cover"
                             />
