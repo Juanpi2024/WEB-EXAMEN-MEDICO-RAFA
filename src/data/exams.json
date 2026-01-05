@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Hemograma Completo",
+        "price": 15000,
+        "deliveryTime": "24 horas",
+        "description": "Análisis detallado de glóbulos rojos, blancos y plaquetas.",
+        "category": "Sangre"
+    },
+    {
+        "id": 2,
+        "name": "Perfil Lipídico",
+        "price": 12500,
+        "deliveryTime": "24 horas",
+        "description": "Mide los niveles de colesterol y triglicéridos en la sangre.",
+        "category": "Cardiovascular"
+    },
+    {
+        "id": 3,
+        "name": "Ecografía Abdominal",
+        "price": 45000,
+        "deliveryTime": "48 horas",
+        "description": "Evaluación por imágenes de los órganos internos del abdomen.",
+        "category": "Imagenología"
+    },
+    {
+        "id": 4,
+        "name": "Rayos X de Tórax",
+        "price": 28000,
+        "deliveryTime": "24 horas",
+        "description": "Imagen radiológica para evaluar pulmones y corazón.",
+        "category": "Imagenología"
+    },
+    {
+        "id": 5,
+        "name": "PCR COVID-19",
+        "price": 25000,
+        "deliveryTime": "12-24 horas",
+        "description": "Detección molecular del virus SARS-CoV-2.",
+        "category": "Inmunología"
+    },
+    {
+        "id": 6,
+        "name": "Perfil Bioquímico",
+        "price": 18000,
+        "deliveryTime": "24 horas",
+        "description": "Evalúa funcionamiento renal, hepático y niveles de glucosa.",
+        "category": "Bioquímica"
+    },
+    {
+        "id": 7,
+        "name": "Glicemia en Ayunas",
+        "price": 5000,
+        "deliveryTime": "12 horas",
+        "description": "Medición simple de azúcar en la sangre.",
+        "category": "Bioquímica"
+    },
+    {
+        "id": 8,
+        "name": "Orina Completa",
+        "price": 8000,
+        "deliveryTime": "24 horas",
+        "description": "Análisis físico, químico y microscópico de la orina.",
+        "category": "Bioquímica"
+    }
+]
